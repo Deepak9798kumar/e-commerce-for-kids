@@ -1,0 +1,170 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+.container-available img{
+    width: 32vw;
+    display: inline-block;
+    padding: 3rem;
+}
+ h1{
+    text-align: center;
+}
+.container{
+display: flex;
+justify-content: center;
+    
+}
+.container img{
+    height: 30vh;
+}
+.container-filter a img{
+    width: 100vw;
+}
+h2{
+    font-size: medium;
+    font-weight: 700;
+    margin-left: 2rem;
+}
+h3{
+    font-size: medium;
+    font-weight: 450;
+    margin-left: 2rem;
+}
+a{
+    text-decoration: none;
+}
+.Active{
+    display: flex;  
+}
+.card{
+    width: 26rem;
+    margin: 1rem;
+    border: none;
+    position:relative;
+}
+.offer-h2{
+    color: white;
+    background-color: red;
+    position: absolute;
+    left: 8px;
+    top: 19px;
+    width:20%;
+    text-align: center;
+    
+}
+.right-offer-h2{
+    color: black;
+    background-color: yellow;
+    position: absolute;
+    right: 8px;
+    top: 19px;
+    width: 16%;
+    text-align: center;
+}
+ 
+.btn{
+    width: 20rem;
+    border-radius: none;
+}
+.fa{
+    color: green;
+}
+.text{
+    margin-top: 2rem;
+}
+.text h2{
+    font-weight: 400;
+}
+.card-text a{
+    color: black;
+}
+ */
+
+
+
+/* .gift {
+    width: 100vw;
+    margin: auto;
+    height: 500px;
+} */
+.container a img {
+    margin-left: 0rem;
+    height: 31rem;
+    width: 100%;
+}
+h1{
+    text-align: center;
+    font-size: 27px;
+    margin: 2rem;
+}
+h2{
+    text-align: center;
+    font-size: 17px;
+    margin: 1rem;
+}
+.container-gift img{
+    height: 300px;
+    width: 340px;
+}
+.container-gift {
+    display: flex;
+    margin: 0 15rem 0 15rem;
+    gap: 1rem;
+}
+.border img{
+    width: 85vw;
+    height: auto;
+    margin-left: 8rem;
+}
+.card{
+    width: 18rem;
+    margin: 1rem;
+    border: none;
+    position:relative;
+    
+}
+.gift-card img{
+    width: 70%;
+    height: auto;
+}
+.gift-card{
+    display: flex;
+    padding: 2rem;
+    text-align: center;
+    justify-content: center;
+    column-gap: 30px;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+.blog-card img{
+    height: 15rem;
+    width: 25rem;
+}
+.blog-container{
+    display: flex;
+    column-gap: 1rem;
+    justify-content: center;
+}
+p{
+    font-size: 14px;
+}
+.blog-text{
+    justify-content: center;
+}
+.blog-card h1{
+    font-size:33px;   
+}
+.blog-card{
+    width: 23%;
+}
+.container img{
+    width: auto;
+    height: auto;
+}
+.container h1{
+    text-align: center;
+}
